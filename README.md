@@ -45,7 +45,7 @@
 ###
 
 <br clear="both">
-
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/codexXx0/codexXx0/output/github-contribution-grid-snake.svg" />
 <img src="https://raw.githubusercontent.com/codexXx0/codexXx0/output/snake.svg" alt="Snake animation" />
 
 ###
