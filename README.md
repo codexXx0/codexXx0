@@ -17,11 +17,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://private-user-images.githubusercontent.com/74038190/240885348-491e3e44-11a0-487a-b07b-717f677bbe4a.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQ3NjUwMDMsIm5iZiI6MTcyNDc2NDcwMywicGF0aCI6Ii83NDAzODE5MC8yNDA4ODUzNDgtNDkxZTNlNDQtMTFhMC00ODdhLWIwN2ItNzE3ZjY3N2JiZTRhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODI3VDEzMTgyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY5YjcxOWNiOTQyMDc1MDY2OGZjMWM3YzVjMzQ5MmJlYzViMDk2OTkxNWRmYmQzNTNhMTJlZWZkNTY0MWNhNzEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.nYJnDqT6mvqviG1ZIL8aESKplfaXhYClbTBsyfH14iQ"  />
+<img align="right" height="200" src="https://private-user-images.githubusercontent.com/74038190/240885348-491e3e44-11a0-487a-b07b-717f677bbe4a.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQ3NjUwMDMsIm5iZiI6MTcyNDc2NDcwMywicGF0aCI6Ii83NDAzODE5MC8yNDA4ODUzNDgtNDkxZTNlNDQtMTFhMC00ODdhLWIwN2ItNzE3ZjY3N2JiZTRhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODI3VDEzMTgyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY5YjcxOWNiOTQyMDc1MDY2OGZjMWM3YzVjMzQ5MmJlYzViMDk2OTkxNWRmYmQzNTNhMTJlZWZkNTY0MWNhNzEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.nYJnDqT6mvqviG1ZIL8aESKplfaXhYClbTBsyfH14iQ"  />
 
 ###
 
